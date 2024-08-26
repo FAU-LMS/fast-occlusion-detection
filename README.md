@@ -1,1 +1,3 @@
-# fast-occlusion-detection
+# Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays
+
+Coming soon ...
